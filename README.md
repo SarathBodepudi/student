@@ -1,5 +1,15 @@
 # Student
-Refer: https://www.geeksforgeeks.org/how-to-create-module-with-routing-in-angular-9/
+Refer: 
+https://www.geeksforgeeks.org/how-to-create-module-with-routing-in-angular-9/
+https://www.itsolutionstuff.com/post/how-to-add-bootstrap-5-in-angular-12example.html
+https://www.webtutpro.com/angular-12-add-bootstrap-4-e35e3cf4cb53
+
+https://www.ganatan.com/tutorials/en
+https://www.ganatan.com/tutorials/getting-started-with-angular
+https://therichpost.com/angular-12-bootstrap-5-free-responsive-template/
+
+Nav Bar:
+https://getbootstrap.com/docs/5.1/components/navbar/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
